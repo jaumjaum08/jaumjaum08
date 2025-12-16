@@ -2,7 +2,7 @@
 
 **`SysAdmin | Infrastructure`**
 
-Trabalho principalmente com Infraestrutura de TI, na stack de observabilidade, SysAdmin e DevOps. Possuo habilidades em IaC, scripting em Powershell, Grafana e desenvolvo projetos pessoais em Python e Flutter. Tento aprender de tudo um pouco de TI, sem me limitar a infra :D
+Trabalho principalmente com Infraestrutura de TI, na stack de observabilidade e administração de sistemas. Possuo habilidades em scripting em Powershell e Python, observabilidade com Grafana e desenvolvo projetos pessoais em Python e Flutter. Tento aprender de tudo um pouco de TI, sem me limitar a infra :D
 
 ---
 
