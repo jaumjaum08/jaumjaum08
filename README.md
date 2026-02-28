@@ -31,9 +31,7 @@ Trabalho principalmente com Infraestrutura de TI, na stack de observabilidade e 
 
 ### 📊 Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaumjaum08&show_icons=true&theme=midnight-purple)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
 
 #
 <!--
