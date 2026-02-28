@@ -31,7 +31,7 @@ Trabalho principalmente com Infraestrutura de TI, na stack de observabilidade e 
 
 ### 📊 Status
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=jaumjaum08&theme=gruvbox&border_radius=4.5)
 
 #
 <!--
