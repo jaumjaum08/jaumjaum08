@@ -31,7 +31,7 @@ Trabalho principalmente com Infraestrutura de TI, na stack de observabilidade e 
 
 ### 📊 Status
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jaumjaum08)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaumjaum08&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 #
 <!--
