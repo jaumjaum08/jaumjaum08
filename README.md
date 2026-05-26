@@ -1,13 +1,13 @@
 # 🥷🏻 JaumJaum08
 
-**`SysAdmin | Infrastructure | Devops`**
+**`SysAdmin | Infrastructure Analyst`**
 
 Trabalho principalmente com Infraestrutura de TI, na stack de observabilidade e administração de sistemas. Possuo habilidades em scripting em Powershell e Python, observabilidade com Grafana e Zabbix, e desenvolvo projetos pessoais em Python e Flutter. 
 
 ---
 
 
-### 🧰 Linguagens e ferramentas
+### 🧰 Tech Stack
 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
