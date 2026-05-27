@@ -2,7 +2,7 @@
 
 **`SysAdmin | Infrastructure Analyst`**
 
-Trabalho principalmente com Infraestrutura de TI, na stack de observabilidade e administração de sistemas. Possuo habilidades em scripting em Powershell e Python, observabilidade com Grafana e Zabbix, e desenvolvo projetos pessoais em Python e Flutter. 
+Trabalho principalmente com Infraestrutura de TI, na stack de observabilidade e administração de sistemas. Possuo habilidades com scripting em Powershell e Python, observabilidade com Grafana e Zabbix, e desenvolvo projetos pessoais em Python e Flutter visando aumentar a visibilidade e produtividade de administradores de sistemas.
 
 ---
 
